@@ -1,0 +1,377 @@
+{
+"type": "FeatureCollection","name": "Northern pubs", "crs": { "type": "name", "properties": { 
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84" 
+} },
+"features": [
+
+
+{"type":"Feature","properties":{
+    "name":"The Half Moon and Spread Eagle, Micheldever", 
+    "garden":"Patio garden",
+    "parking":"Small carpark",
+    "beer":"good beer",
+    "dogs":"Dog friendly",
+    "hash":"Good trails - paths and, woods",
+    "rating":5
+ },
+    "geometry":{"type":"Point","coordinates":[-1.26299,51.146877]}
+ },
+{"type":"Feature","properties":{
+    "name":"The Northbrook Arms, East Stratton", 
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"Decent beer",
+    "dogs":"Dog friendly",
+    "hash":"Good trails - paths and woods with bluebells",
+    "rating":5
+    },
+    "geometry":{"type":"Point","coordinates":[-1.22514,51.15488]}
+    },
+
+{ "type": "Feature", "properties": {
+    "name": "The White Hart, Whitchurch",
+    "garden":"? garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":4 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.33868, 51.2303 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Watership Down Inn, Freefolk",
+    "garden":"? garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":4 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.30907, 51.23542 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Old House at Home, Overton",
+    "garden":"Small patio garden",
+    "parking":"on-street parking",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "hash":"Good trails - paths and woods",
+    "rating":6 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.26106, 51.24467 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Fox, North Waltham",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":6 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.19419, 51.20854 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Dove Inn, Micheldever",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":4 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.26168, 51.18245 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The George and Horn, Kingsclere",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":4 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.24296, 51.32496 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The George Inn, Vernham Dean",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.51165, 51.30715 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Oak, Smannel",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":7
+     }, "geometry": { "type": "Point", "coordinates": [ -1.45633, 51.23891 ] } 
+     },
+{ "type": "Feature", "properties": { 
+    "name": "The Royal Oak, Charlton",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.49834, 51.22032 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Crook and Shears, Upper Clatford",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.49423, 51.1919 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Royal Oak, Goodworth Clatford",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.48336, 51.1786 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The White Lion, Wherwell",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":7 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.44493, 51.16604 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Cricketers, Longparish",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5
+     }, "geometry": { "type": "Point", "coordinates": [ -1.38109, 51.19945 ] } 
+     },
+{ "type": "Feature", "properties": {
+     "name": "The Swan, Barton Stacey",
+     "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5
+     }, "geometry": { "type": "Point", "coordinates": [ -1.37915, 51.16697 ] } 
+     },
+{ "type": "Feature", "properties": { 
+    "name": "The Abbots Mitre, Chilbolton",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":4
+     }, "geometry": { "type": "Point", "coordinates": [ -1.43968, 51.15769 ] } 
+     },
+{ "type": "Feature", "properties": { 
+    "name": "The Coach and Horses, Sutton Scotney",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.33809, 51.15332 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Wonston Arms, Wonston",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":8 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.32377, 51.15208 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Walnut Tree, Appleshaw",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":6 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.5648, 51.23733 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Queens Head, Ludgershall",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5
+     }, "geometry": { "type": "Point", "coordinates": [ -1.62195, 51.25687 ] } 
+     },
+{ "type": "Feature", "properties": { 
+    "name": "The Crown, Upton",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.48542, 51.29471 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Hawk Inn, Monxton",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5
+     }, "geometry": { "type": "Point", "coordinates": [ -1.56021, 51.19943 ] } 
+     },
+{ "type": "Feature", "properties": { 
+    "name": "The Black Swan, Monxton",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":4
+     }, "geometry": { "type": "Point", "coordinates": [ -1.55124, 51.19853 ] } 
+     },
+{ "type": "Feature", "properties": {
+     "name": "The George Inn, Middle Wallop",
+     "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+     }, "geometry": { "type": "Point", "coordinates": [ -1.58507, 51.13972 ] } 
+     },
+{ "type": "Feature", "properties": { 
+    "name": "The Plough, Grateley",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.60275, 51.17581 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Cart and Horses, Kings Worthy",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.29591, 51.08988 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Peat Spade, Longstock,",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.48705, 51.13251 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The White Hart, Stockbridge",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.48811, 51.11334 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Fox, Crawley",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.38813, 51.11016 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The King Charles, Kings Worthy",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.302534, 51.10683 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Welcome Stranger, Kimpton",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.601, 51.21912 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The George &amp; Dragon, Hurstbourne Tarrant",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.45294, 51.2760 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Weyhill Fair, Weyhill",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.54336, 51.21779 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Cross Keys, Upper Chute",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.57782, 51.28348 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Cricketers, Tangley",
+    "garden":"Big garden",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.53286, 51.27306 ] } 
+    }
+
+
+
+
+]
+}

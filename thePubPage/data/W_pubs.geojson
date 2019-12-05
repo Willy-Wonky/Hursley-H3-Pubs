@@ -1,0 +1,212 @@
+{
+"type": "FeatureCollection","name": "Western pubs", "crs": { "type": "name", "properties": { 
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84" 
+} },
+"features": [
+
+{ "type": "Feature", "properties": { 
+    "name": "The Plough, Sparsholt",
+    "garden":"Big garden",
+    "parking":"good carpark",
+    "beer":"Decent beer: ?",
+    "dogs":"Dog friendly",
+    "hash":"Good trails - paths and woods",
+    "rating":7 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.37561, 51.07994 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The John-o-Gaunt, Horsebridge",
+    "garden":"Big garden opposite",
+    "parking":"Nearby parking",
+    "beer":"Good beer: ?",
+    "dogs":"Dog friendly",
+    "hash":"Couple of trails - paths and woods",
+    "rating":6 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.50788, 51.07204 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Crown, Kings Somborne",
+    "garden":"Small garden",
+    "parking":"on-street parking",
+    "beer":"Decent beer: ?",
+    "dogs":"Dog Friendly",
+    "hash":"Good trails - paths and woods",
+    "rating":6 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.48760, 51.07737 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Boot Inn, Houghton",
+    "garden":"Big garden opposite",
+    "parking":"on-street parking",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.51150, 51.09105 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Greyhound, Broughton",
+    "garden":"Small garden",
+    "parking":"Small carpark, on-street parking",
+    "beer":"beer: ?",
+    "dogs":"Dog friendly",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.56094, 51.09481 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Tally Ho!, Broughton",
+    "garden":"Patio garden",
+    "parking":"on-street parking",
+    "beer":"Good beer: ?",
+    "dogs":"Dog friendly",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.56056, 51.09448 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Black Horse, West Tytherly",
+    "garden":"?",
+    "parking":"? parking",
+    "beer":" ?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.6088, 51.06928 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The White Horse, Ampfield",
+    "garden":"Small garden",
+    "parking":"Big carpark",
+    "beer": "?",
+    "dogs":"",
+    "hash":"Good trails - paths through woods. But we dont do this pub. Rude landlord",
+    "rating":0 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.43028, 51.00655 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Dog and Crook, Braishfield",
+    "garden":"Big garden",
+    "parking":"Big carpark",
+    "beer": "?",
+    "dogs":"",
+    "hash":"Good trails - paths and woods",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.470174, 51.015346 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Wheatsheaf, Braishfield",
+    "garden":"Small garden",
+    "parking":"Big carpark",
+    "beer":"?",
+    "dogs":"",
+    "hash":"Good trails - paths through woods.",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.46611, 51.02038 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Mill Arms, Dunbridge",
+    "garden":"Small garden",
+    "parking":"Big carpark nearby",
+    "beer":"?",
+    "dogs":"",
+    "hash":"Good trails - paths through woods.",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.54722, 51.03342 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Hunters Inn, Woodley",
+    "garden":"Small garden",
+    "parking":"Small carpark",
+    "beer":"?",
+    "dogs":"",
+    "hash":"Ok trails - paths, woods some way off.",
+    "rating":4 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.46983, 50.99852 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Luzborough,, Whitenap",
+    "garden":"Small garden",
+    "parking":"Big carpark",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths through woods.",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.46398, 50.98490 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Old House at Home, Romsey",
+    "garden":"Courtyard garden",
+    "parking":"Big public carpark",
+    "beer":"Good beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths through woods.",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.49549, 50.98986 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Hatchet, Sherfield English",
+    "garden":"Small garden",
+    "parking":"Big carpark",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths through woods.",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.58582, 50.99968 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Parish Lantern, Whiteparish",
+    "garden":"Nice garden",
+    "parking":"Big carpark",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths through woods.",
+    "rating":6 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.64709, 51.01275 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Red Rover, West Wellow",
+    "garden":"Nice garden",
+    "parking":"Big carpark",
+    "beer":"Good beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths through woods.",
+    "rating":6 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.59140, 50.9708 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Landford Poacher, Landford",
+    "garden":" garden",
+    "parking":"Big carpark",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"ok trails - paths through woods.",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.63703, 50.98063 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Star, East Tytherley",
+    "garden":"Small garden",
+    "parking":"Big carpark",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths through woods.",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.58292, 51.04832 ] } 
+    },
+{ "type": "Feature", "properties": { 
+    "name": "The Goat, Timsbury",
+    "garden":"interesting garden",
+    "parking":"Big carpark",
+    "beer":"beer: ?",
+    "dogs":"",
+    "hash":"Good trails - paths through woods.",
+    "rating":5 
+    }, "geometry": { "type": "Point", "coordinates": [  -1.51336, 51.02682 ] } 
+    }
+
+
+
+]
+}

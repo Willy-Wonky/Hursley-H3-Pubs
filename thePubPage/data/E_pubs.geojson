@@ -1,0 +1,308 @@
+{
+"type": "FeatureCollection","name": "Eastern pubs","crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" 
+} },
+"features": [
+
+
+{"type":"Feature","properties":{
+    "name":"The Horse and Groom",
+    "garden":"Courtyard garden",
+    "parking":"On street parking",
+    "beer":"Decent beer",
+    "dogs":"Dog friendly",
+    "hash":"Reasonable trails - mostly live trails around the town",
+    "rating":6
+    },"geometry":{"type":"Point","coordinates":[-1.16096,51.09072]}
+ },
+
+  { "type": "Feature", "properties": { 
+    "name": "Ropley Rec", 
+    "garden":"Plenty of garden",
+    "hash":"Reasonable trails - paths and woods",
+    "parking":"Good carpark",
+    "beer":"No beer, but happy to let you bring a barrel",
+    "dogs":"Dog friendly","rating":7 
+    }, "geometry": { "type": "Point", "coordinates": [ -1.0838, 51.08376 ] } 
+    },
+
+{"type":"Feature","properties":{
+    "name":"The Cricketers",
+    "garden":"Garden",
+    "parking":"Good carpark",
+    "beer":"Decent beer",
+    "dogs":"Dog friendly",
+    "rating":7
+    },
+    "geometry":{"type":"Point","coordinates":[-1.17100,51.08021]}
+    },
+
+{"type":"Feature","properties":{
+    "name":"The Globe", 
+    "garden":"Lakeside garden",
+    "parking":"On street parking",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":8
+    },"geometry":{"type":"Point","coordinates":[-1.1610156297683716,51.09280245186964]} 
+    },
+
+{"type":"Feature","properties":{
+    "name":"Arlebury Park Rec", 
+    "garden":"Balcony",
+    "parking":"Good carpark",
+    "beer":"Poor beer",
+    "dogs":"Dog friendly",
+    "rating":3
+    },
+    "geometry":{"type":"Point","coordinates":[-1.1735200881958008,
+          51.089200657372785]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Bush", 
+    "garden":"Riverside garden",
+    "parking":"Good carpark",
+    "beer":"Excellent beer",
+    "dogs":"Dog friendly",
+    "rating":8
+    },
+    "geometry":{"type":"Point","coordinates":[-1.2003421783447266,
+          51.08312515232398]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Plough", 
+    "garden":"Nice garden",
+    "parking":"Good carpark",
+    "beer":"Decent beer",
+    "dogs":"Dog friendly",
+    "rating":7
+    },
+    "geometry":{"type":"Point","coordinates":[-1.2370669841766357,
+          51.092428471292315]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Flowerpots", 
+    "garden":"Nice garden",
+    "parking":"Good carpark",
+    "beer":"Excellent beer",
+    "dogs":"Dog friendly",
+    "rating":8
+    },
+    "geometry":{"type":"Point","coordinates":[-1.1720234155654907,
+          51.05105632012151]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Tichborne Arms", 
+    "garden":"Lovely garden",
+    "parking":"Good carpark",
+    "beer":"Excellent beer",
+    "dogs":"Dog friendly",
+    "rating":8
+    },
+    "geometry":{"type":"Point","coordinates":[-1.1863625049591064,
+          51.070189722614046]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Hinton Arms", 
+    "garden":"Decent garden",
+    "parking":"Good carpark",
+    "beer":"Excellent beer",
+    "dogs":"Dog friendly",
+    "rating":7
+    },
+    "geometry":{"type":"Point","coordinates":[-1.1589610576629639,
+          51.0470735554433]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Fox Inn", 
+    "garden":"Decent garden",
+    "parking":"Good carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":6
+    },
+    "geometry":{"type":"Point","coordinates":[-1.1242318153381348,
+          51.04689481199616]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Ship", 
+    "garden":"No garden",
+    "parking":"Small carpark",
+    "beer":"Decent beer",
+    "dogs":"Dog friendly",
+    "rating":5
+    },
+    "geometry":{"type":"Point","coordinates":[-1.1359477043151855,
+          51.08355649569252]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Castle of Comfort", 
+    "garden":"Not really a garden",
+    "parking":"Very small carpark",
+    "beer":"Decent beer",
+    "dogs":"Dog friendly",
+    "rating":5
+    },
+    "geometry":{"type":"Point","coordinates":[-1.0660,
+          51.13071]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Angel Hotel", 
+    "garden":"No garden",
+    "parking":"Good carpark",
+    "beer":"Some beer",
+    "dogs":"Dog friendly",
+    "rating":4
+    },
+    "geometry":{"type":"Point","coordinates":[-1.04124,
+          51.05344]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Thomas Lord", 
+    "garden":"Nice garden",
+    "parking":"Very small carpark",
+    "beer":"Excellent beer",
+    "dogs":"Dog friendly",
+    "rating":8
+    },
+    "geometry":{"type":"Point","coordinates":[-1.08495,
+          51.01208]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Shoe Inn", 
+    "garden":"Lovely riverside garden",
+    "parking":"On-street parking",
+    "beer":"Excellent beer",
+    "dogs":"Dog friendly",
+    "rating":8
+    },
+    "geometry":{"type":"Point","coordinates":[-1.12885,
+          50.98399]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The George and Falcon", 
+    "garden":"Lovely riverside garden",
+    "parking":"Good carpark",
+    "beer":"Decent beer",
+    "dogs":"Dog friendly",
+    "rating":7
+    },
+    "geometry":{"type":"Point","coordinates":[-1.11179,
+          51.00419]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Vine", 
+    "garden":"Decent garden",
+    "parking":"Small carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":6
+    },
+    "geometry":{"type":"Point","coordinates":[-1.08440,
+          50.93057]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The White Lion", 
+    "garden":"Decent garden",
+    "parking":"Parking on the green",
+    "beer":"Very good beer",
+    "dogs":"Dog friendly",
+    "rating":8
+    },
+    "geometry":{"type":"Point","coordinates":[-1.13226,
+          50.94741]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Bold Forester", 
+    "garden":"No garden",
+    "parking":"medium carpark",
+    "beer":"Okay beer",
+    "dogs":"Dog friendly",
+    "rating":5
+    },
+    "geometry":{"type":"Point","coordinates":[-1.14227,
+          50.92526]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Yew Tree", 
+    "garden":"Nice garden",
+    "parking":"Small carpark",
+    "beer":"very good beer",
+    "dogs":"Dog friendly",
+    "rating":7
+    },
+    "geometry":{"type":"Point","coordinates":[-1.09121,
+          51.15322]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Purefoy Arms", 
+    "garden":"Garden",
+    "parking":"Small carpark",
+    "beer":"Okay beer",
+    "dogs":"Dog friendly",
+    "rating":4
+    },
+    "geometry":{"type":"Point","coordinates":[-1.13388,
+          51.17052]}
+    },
+    {"type":"Feature","properties":{
+    "name":"The Woolpack", 
+    "garden":"Garden",
+    "parking":"medium carpark",
+    "beer":"Okay beer",
+    "dogs":"null",
+    "rating":2
+    },
+    "geometry":{"type":"Point","coordinates":[-1.18518,
+          51.13789]}
+    },
+
+    {"type":"Feature","properties":{
+    "name":"The Cricketers", 
+    "garden":"Small patio garden",
+    "parking":"on-street parking",
+    "beer":"Nice beer",
+    "dogs":"null",
+    "rating":4
+    },
+    "geometry":{"type":"Point","coordinates":[-1.27160,
+          51.08587]}
+    },
+
+  
+    {"type":"Feature","properties":{
+    "name":"The Hampshire Bowman", 
+    "garden":"Pleasant garden",
+    "parking":"Large carpark",
+    "beer":"Very good beer",
+    "dogs":"Dog friendly",
+    "rating":9
+    },
+    "geometry":{"type":"Point","coordinates":[-1.17864,
+          50.96240]}
+    },
+   
+    {"type":"Feature","properties":{
+    "name":"The Brickmakers Arms", 
+    "garden":"Pleasant garden",
+    "parking":"Carpark nearby",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":7
+    },
+    "geometry":{"type":"Point","coordinates":[-1.18241,
+          50.94552]}
+    },
+   
+    {"type":"Feature","properties":{
+    "name":"The Bucks Head", 
+    "garden":"Small garden",
+    "parking":"Small carpark",
+    "beer":"Decent beer",
+    "dogs":"Dog friendly",
+    "rating":6
+    },
+    "geometry":{"type":"Point","coordinates":[-1.12944,
+          50.97718]}
+    }
+    ]}
+      

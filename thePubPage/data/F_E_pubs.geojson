@@ -1,0 +1,207 @@
+{
+"type": "FeatureCollection","name": "Far eastern pubs","crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" 
+} },
+"features": [
+
+{ "type": "Feature", "properties": { 
+    "name": "The Pub with no Name", 
+    "garden":"Great garden",
+    "hash":"Reasonable trails - paths, woods and hills", 
+    "parking":"Good carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":8 }, 
+    "geometry": { "type": "Point", "coordinates": [ -0.98178, 51.05593 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Trooper", 
+    "garden":"Pleasant garden",
+    "hash":"Reasonable trails - paths, woods and steep hills",
+    "parking":"Decent carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":7 }, "geometry": { "type": "Point", "coordinates": [ -0.96428, 51.04002 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Seven Stars" , 
+    "garden":"Busy garden",
+    "hash":"Reasonable trails - paths, woods and steep hills", 
+    "parking":"Good carpark",
+    "beer":"Some beer",
+    "dogs":"Dog friendly",
+    "rating":5}, 
+    "geometry": { "type": "Point", "coordinates": [ -0.97056, 51.00749 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Red Lion", 
+    "garden":"? garden",
+    "hash":"Reasonable trails - paths, woods and hills",
+    "parking":"Carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":5}, 
+    "geometry": { "type": "Point", "coordinates": [ -0.90205, 51.11781 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Cricketers", 
+    "garden":"Good garden",
+    "hash":"Reasonable trails - paths, woods and heath",
+    "parking":"Carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":6}, 
+    "geometry": { "type": "Point", "coordinates": [ -0.87571, 51.13718 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Three Horseshoes", 
+    "garden":"Small garden",
+    "hash":"Reasonable trails - paths, woods and hills",
+    "parking":"Carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":6}, 
+    "geometry": { "type": "Point", "coordinates": [ -0.93297, 51.13717 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Greyfriar", 
+    "garden":"? garden",
+    "hash":"Reasonable trails - paths and woods",
+    "parking":"Carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":4}, 
+    "geometry": { "type": "Point", "coordinates": [ -0.98871, 51.1331 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Rose and Crown", 
+    "garden":"Decent garden",
+    "hash":"Currently not welcome!",
+    "parking":"Carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":1}, 
+    "geometry": { "type": "Point", "coordinates": [ -0.98018, 51.11069 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Golden Pheasant", 
+    "garden":"Courtyard garden",
+    "hash":"Reasonable trails -Currently not welcome",
+    "parking":"Carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":2}, 
+    "geometry": { "type": "Point", "coordinates": [ -0.99425, 51.11152 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Izaak Walton", 
+    "garden":"Small garden",
+    "hash":"Reasonable trails - paths and woods",
+    "parking":"Small carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":7}, 
+    "geometry": { "type": "Point", "coordinates": [ -1.03064, 50.9945 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "Ye Olde George Inn", 
+    "garden":"? garden",
+    "hash":"Reasonable trails -paths and woods",
+    "parking":"On street parking",
+    "beer":"? beer",
+    "dogs":"Dog friendly",
+    "rating":5}, 
+    "geometry": { "type": "Point", "coordinates": [ -1.03237, 50.99483 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Bat and Ball", 
+    "garden":"Small garden",
+    "hash":"Poor trails - nice views",
+    "parking":"On street parking",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":2 }, 
+    "geometry": { "type": "Point", "coordinates": [ -1.03832, 50.94562 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Five Bells", 
+    "garden":"? garden",
+    "hash":"Reasonable trails - paths, hills and woods",
+    "parking":"? parking",
+    "beer":"? beer",
+    "dogs":"Dog friendly",
+    "rating":5 }, 
+    "geometry": { "type": "Point", "coordinates": [ -0.95013, 50.97663 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The Red Lion", 
+    "garden":"Small garden",
+    "hash":"Reasonable trails - paths and woods",
+    "parking":"Carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "rating":5 }, 
+    "geometry": { "type": "Point", "coordinates": [ -0.96033, 50.93881 ] } 
+    },
+
+{ "type": "Feature", "properties": { 
+    "name": "The George", 
+    "garden":"? garden",
+    "hash":"Reasonable trails - paths and woods",
+    "parking":"? parking",
+    "beer":"? beer",
+    "dogs":"Dog friendly",
+    "rating":5 }, 
+    "geometry": { "type": "Point", "coordinates": [ -0.95168, 50.90902 ] } 
+    },
+
+
+
+ {"type":"Feature","properties":{
+    "name":"The Hawkley Inn", 
+    "garden":"medium garden",
+    "parking":"On-street parking",
+    "beer":"Excellent beer",
+    "dogs":"Dog friendly",
+    "hash":"Good trails - hills, woods",
+    "rating":9
+    },
+    "geometry":{"type":"Point","coordinates":[-0.9359, 51.056512]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Harrow", 
+    "garden":"Good garden",
+    "parking":"On-street parking",
+    "beer":"Excellent beer",
+    "dogs":"Dog friendly",
+    "hash":"Good trails - steep hills, woods",
+    "rating":9
+    },
+    "geometry":{"type":"Point","coordinates":[-0.9302,
+          51.02053]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Selborne Arms", 
+    "garden":"Good garden",
+    "parking":"Public carpark",
+    "beer":"Excellent beer",
+    "dogs":"Dog friendly",
+    "hash":"Good trails - steep hills, woods",
+    "rating":9
+    },
+    "geometry":{"type":"Point","coordinates":[-0.94154,
+          51.09649]}
+    }
+]}

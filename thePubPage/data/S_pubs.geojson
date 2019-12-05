@@ -1,0 +1,242 @@
+{
+"type": "FeatureCollection","name": "Central pubs", "crs": { "type": "name", "properties": { 
+"name": "urn:ogc:def:crs:OGC:1.3:CRS84" 
+} },
+"features": [
+
+{"type":"Feature","properties":{
+    "name":"The Butcher's Hook, Bittern", 
+    "garden":"No garden",
+    "parking":"On-street parking",
+    "beer":"Very good beer",
+    "dogs":"Dog friendly",
+    "hash":"Urban trails - paths, woods and riverside",
+    "rating":7
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.37578, 50.92435 ]}
+    },
+ {"type":"Feature","properties":{
+    "name":"The Frog and Frigate, Southampton", 
+    "garden":"No garden",
+    "parking":"On-street parking",
+    "beer":"Very good beer",
+    "dogs":"Dog friendly",
+    "hash":"Urban trails - paths, woods and riverside",
+    "rating":5
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.39218, 50.89754 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Cowherds Inn, Southampton", 
+    "garden":"large garden",
+    "parking":"Small carpark",
+    "beer":"Decent beer",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths, woods and urban park",
+    "rating":5
+    },
+        "geometry":{"type":"Point","coordinates":[  -1.405899, 50.92403]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Bellemoor, Southampton", 
+    "garden":"? garden",
+    "parking":"? carpark",
+    "beer":"? beer",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths, woods and urban park",
+    "rating":3
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.416305, 50.92744 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Sporting View Southampton", 
+    "garden":"Patio garden",
+    "parking":"Good carpark",
+    "beer":"Some beer",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths, woods",
+    "rating":5
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.41998, 50.93819 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Southampton Golf Club", 
+    "garden":"Patio garden",
+    "parking":"Good carpark",
+    "beer":"Some beer",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths, woods and golf course",
+    "rating":7
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.412801, 50.94756 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Netley Grange, Netley", 
+    "garden":"Patio garden",
+    "parking":"Good carpark",
+    "beer":"Last time we were here there was no beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths, woods and Sea front",
+    "rating":2
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.34945, 50.88074 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Cottage, Netley", 
+    "garden":"? garden",
+    "parking":"? carpark",
+    "beer":"? beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths, woods and Sea front",
+    "rating":5
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.33993, 50.87987 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Ketch Rigger, Hamble", 
+    "garden":"? garden",
+    "parking":"? carpark",
+    "beer":"? beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths and Sea front",
+    "rating":5
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.31167, 50.85177 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Rising Sun, Warsash", 
+    "garden":"Tables on harbour",
+    "parking":"nearby carpark",
+    "beer":"Decent beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths, woods and Sea front",
+    "rating":6
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.30604, 50.85237 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Jolly Sailor, Bursledon", 
+    "garden":"some garden seats",
+    "parking":"on-street parking",
+    "beer":"Decent beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths, woods and Sea front",
+    "rating":6
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.30429, 50.88175 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Bold Forester, Sarisbury Green", 
+    "garden":"Some garden",
+    "parking":"on-street parking",
+    "beer":"? beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths, woods and Sea front",
+    "rating":3
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.28265, 50.87579 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Fishermans Rest, Titchfield", 
+    "garden":"Pleasant garden",
+    "parking":"on-street parking",
+    "beer":"? beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths and woods",
+    "rating":4
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.22993, 50.85645 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Wheatsheaf, Titchfield", 
+    "garden":"Pleasant courtyard garden",
+    "parking":"on-street parking",
+    "beer":"Decent beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths and woods",
+    "rating":6
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.23265, 50.85058 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Kings Head, Wickham", 
+    "garden":"? garden",
+    "parking":"on-street parking",
+    "beer":"Decent beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths and woods",
+    "rating":6
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.18781, 50.89997 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Samuels Rest, Shedfield", 
+    "garden":"large garden",
+    "parking":"Some parking",
+    "beer":"Decent beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths and woods",
+    "rating":3
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.19877, 50.91679 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Roebuck", 
+    "garden":"?garden",
+    "parking":"Small carpark",
+    "beer":"Decent beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths and woods Don't think we're welcome",
+    "rating":1
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.16801, 50.9153 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Travellers Rest, Newtown", 
+    "garden":"Large garden",
+    "parking":"Large carpark",
+    "beer":"Decent beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths and woods",
+    "rating":6
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.12873, 50.90672 ]}
+    },
+{"type":"Feature","properties":{
+    "name":"The Chairmakers, Worlds End", 
+    "garden":"Large garden",
+    "parking":"Large carpark",
+    "beer":"Decent beer!",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths and woods",
+    "rating":6
+    },
+        "geometry":{"type":"Point","coordinates":[ -1.10697, 50.90207 ]}
+    },
+{ "type": "Feature", "properties": {
+    "name": "The Horse and Jockey", 
+    "garden":"Small garden","hash":"Reasonable trails -paths and woods",
+    "parking":"Small carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths and woods",
+    "rating":5 
+    
+    }, 
+    "geometry": { "type": "Point", "coordinates": [ -1.11455, 50.89878 ] } 
+    },
+{ "type": "Feature", "properties": {
+    "name": "Golden Lion, Southwick", 
+    "garden":"Small garden","hash":"Reasonable trails -paths and woods",
+    "parking":"Small carpark",
+    "beer":"Good beer",
+    "dogs":"Dog friendly",
+    "hash":"Trails - paths and woods Don't think we're welcome",
+    "rating":2 
+    
+    }, 
+    "geometry": { "type": "Point", "coordinates": [ -1.11126, 50.87319 ] } 
+    }
+
+
+]}

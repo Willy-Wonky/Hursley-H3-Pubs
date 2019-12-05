@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="pubStyle.css" media="all">
+    <link href="https://fonts.googleapis.com/css?family=Miltonian+Tattoo|Mystery+Quest" rel="stylesheet">
+    <title>All the pubs we've run from</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
+
+
+
+</head>
+
+<body>
+
+    <img class="logo" src="images/logo.png" alt="Hursley Logo"></img>
+    <div id="description" class="description"><span>These are most of the pubs we've run from. The redder they are, the
+            higher
+            I've rated
+            them - purely personal at the moment! I'm working through them</span><span onclick="hideIt()"
+            class="x">&times;</button></div>
+
+    <!--Map Here -->
+    <div id="mapContainer"></div>
+
+    <!-- <footer>
+        &copy; 2019 hursleyh3
+    </footer> -->
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="dist/leaflet.ajax.min.js"></script>
+    <script src="pubApp.js"></script>
+    <script src="hide.js"></script>
+</body>
+
+</html>
